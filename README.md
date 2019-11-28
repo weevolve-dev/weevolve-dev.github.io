@@ -1,3 +1,3 @@
-# Welcome WEEVOLVE.DEV
+# WEEVOLVE.DEV
 
 from control to evolution
