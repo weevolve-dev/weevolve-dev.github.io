@@ -1,10 +1,10 @@
 # Site settings
-title: "WEEVOLVE.DEV"
+title: WEEVOLVE.DEV
 email: sfrank@weevolve.dev
-url: weevolve.dev
-description: "Managed change is good. Guided evolution is better. Grow your software and your business with us."
-keywords: "evolution, software, development, agile, consulting, vietnam, outsourcing"
-skills: "Product Manager - Agile Coach - Outsourcing Consultant"
+url: https://weevolve.dev
+description: "From mamanged change to guided evolution. Agile coaching, product management, outsourcing consulting"
+keywords: "Agile coaching, product management, outsourcing consulting, evolve, evolution"
+skills: "Agile Coach - Product Manager - Outsourcing Consultant"
 meta_author: Frank Steffen
 
 # Google webmaster tools
@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -25,10 +25,10 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: DAE677 #lime
-  primary-rgb: "218,238,119" #lime
-  secondary: 75BBA7 #grayish cyan
-  secondary-dark: 8C8C8C #dark grey
+  primary: 8C8C8C 
+  primary-rgb: "140,140,140" 
+  secondary: DFEF67 
+  secondary-dark: 75BBA7 
 
 # Footer settings
 footer:
@@ -38,25 +38,25 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket
-#    url: http://bitbucket.org/jekyll
- - title: github
+social:
+ # - title: twitter
+ #   url: http://twitter.com/jekyllrb
+  - title: facebook
+    url: https://www.facebook.com/steffen.frank.1971
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/7545496/steffen-frank?tab=profile#
+ # - title: bitbucket
+ #   url: http://bitbucket.org/jekyll
+  - title: github
     url: http://github.com/weevolve-dev
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 21 An Cu 5 
-  - line: Da Nang, Viet Nam
+  - line: 21 An Cu 5
+  - line: Da Nang, Vietnam
 
 # Credits content
-credits: 'Based on the <a href="https://github.com/jeromelachaud/freelancer-themem">Freelancer Jekyll theme</a>.'
+credits: 'Based on the <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer theme</a> for Jekyll.'
 
 # Build settings
 markdown: kramdown
