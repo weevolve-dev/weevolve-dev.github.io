@@ -1,7 +1,7 @@
 # Site settings
-title: WEEEVOLVE.DEV
+title: "WEEVOLVE.DEV
 email: sfrank@weevolve.dev
-url: https://weevolve.dev
+url: weevolve.dev
 description: "Managed change is good. Guided evolution is better. Grow your software and your business with us."
 keywords: "evolution, software, development, agile, consulting, vietnam, outsourcing"
 skills: "Product Manager - Agile Coach - Outsourcing Consultant"
@@ -34,12 +34,12 @@ color:
 footer:
   copyright: Steffen Frank
   location: Da Nang, Vietnam
-  # social: Around the Web
-  # credits: Credits
+  social: Around the Web
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
-  - title: twitter
+#  - title: twitter
 #    url: http://twitter.com/jekyllrb
 #  - title: facebook
 #    url:
