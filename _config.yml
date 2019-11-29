@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: WEEEVOLVE.DEV
+email: sfrank@weevolve.dev
+url: https://weevolve.dev
+description: "Managed change is good. Guided evolution is better. Grow your software and your business with us."
+keywords: "evolution, software, development, agile, consulting, vietnam, outsourcing"
+skills: "Product Manager - Agile Coach - Outsourcing Consultant"
+meta_author: Frank Steffen
 
 # Google webmaster tools
 google_verify:
@@ -21,42 +21,42 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: DAE677 #lime
+  primary-rgb: "218,238,119" #lime
+  secondary: 75BBA7 #grayish cyan
+  secondary-dark: 8C8C8C #dark grey
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Steffen Frank
+  location: Da Nang, Vietnam
+  # social: Around the Web
+  # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
+# social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+ - title: github
+    url: http://github.com/weevolve-dev
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 21 An Cu 5 
+  - line: Da Nang, Viet Nam
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Based on the <a href="https://github.com/jeromelachaud/freelancer-themem">Freelancer Jekyll theme</a>.'
 
 # Build settings
 markdown: kramdown
