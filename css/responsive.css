@@ -38,6 +38,19 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	features Start 
 --*/
+  #feature:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    opacity: 0.9;
+  }
+
   #features {
     text-align: center;
   }
@@ -242,6 +255,19 @@ px      68    160    252    */
   /*--
 	features Start 
 --*/
+  #feature:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    opacity: 0.9;
+  }
+
   #features .features-img {
     text-align: center;
   }
