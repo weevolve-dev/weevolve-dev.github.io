@@ -71,7 +71,6 @@ a:active {
 header {
   background: #fff;
   padding: 5px 0;
-  height: 75px;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -79,6 +78,7 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
+  height: 60px;
   padding-top: 0;
 }
 header .navbar-default {
@@ -248,7 +248,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #feature {
   background: url("../img/featue-bg.jpg");
-  background-position: 50% 94px;
+  background-position: left center;
   width: 100%;
   display: block;
   position: relative;
