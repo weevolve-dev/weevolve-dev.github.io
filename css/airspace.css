@@ -81,6 +81,11 @@ header .navbar-brand {
   height: 60px;
   padding-top: 0;
 }
+header .navbar-brand img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
 header .navbar-default {
   background: none;
   border: 0px;
@@ -240,7 +245,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #E2EE7B;
   font-size: 15px;
   font-weight: bold;
-  color: #8C8C8C;
+  color: #666;
   margin-top: 30px;
 }
 /*--
@@ -288,7 +293,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #E2EE7B;
   font-size: 15px;
   font-weight: bold;
-  color: #8C8C8C;
+  color: #666;
   margin-top: 30px;
 }
 /*--
