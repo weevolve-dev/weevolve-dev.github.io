@@ -229,11 +229,11 @@ font header .navbar-default .navbar-nav li a:hover {
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   letter-spacing: 10px;
-  font-size: 30px;
+  font-size: 40px;
   color: #fff;
 }
 #call-to-action p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.6;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
@@ -253,14 +253,13 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #feature {
   background: url("../img/featue-bg.jpg");
-  background-position: left center;
+  background-position: left top;
   width: 100%;
   display: block;
   position: relative;
   overflow: visible;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center center;
   background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
