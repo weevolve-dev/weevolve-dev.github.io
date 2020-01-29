@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
   font-family: 'Roboto', sans-serif;
-  color: #8C8C8C;
+  color: #606060;
 }
 h2 {
   font-size: 30px;
@@ -183,7 +183,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item i {
   font-size: 60px;
-  color: #DFEF67;
+  color: #D6ED17;
 }
 #service .service-item h4 {
   padding-top: 20px;
@@ -243,7 +243,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 15px 35px;
   border: none;
   border-radius:0px;
-  background-color: #E2EE7B;
+  background-color: #D6ED17;
   font-size: 15px;
   font-weight: bold;
   color: #606060;
@@ -302,7 +302,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 15px 35px;
   border: none;
   border-radius:0px;
-  background-color: #E2EE7B;
+  background-color: #D6ED17;
   font-size: 15px;
   font-weight: bold;
   color: #606060;
@@ -729,7 +729,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 15px 35px;
   border: none;
   border-radius:0px;
-  background-color: #E2EE7B;
+  background-color: #D6ED17;
   font-size: 15px;
   font-weight: bold;
   color: #606060;
@@ -779,7 +779,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #contact-box .block h2 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color: #8C8C8C;
+  color: #606060;
   font-size: 28px;
   padding-bottom: 30px;
 }
@@ -809,7 +809,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 .heading h2 {
-  color: #8C8C8C;
+  color: #606060;
   font-size: 30px;
   line-height: 40px;
   font-weight: 400;
@@ -833,7 +833,7 @@ footer {
 footer p {
   font-size: 15px;
   line-height: 25px;
-  color: #8C8C8C;
+  color: #606060;
 }
 footer a {
   color: #606060;
