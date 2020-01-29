@@ -97,7 +97,7 @@ px      68    160    252    344    436    528    620    712    */
     padding-left: 0px;
   }
   #portfolio-work .block .portfolio-contant ul li a .img-heading {
-    padding: 5px 0 5px 13px;
+    padding: 5px 0 5px 15px;
   }
   #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
     font-size: 20px;
@@ -182,7 +182,7 @@ px      68    160    252    */
     font-size: 18px;
   }
   p {
-    font-size: 13px;
+    font-size: 15px;
   }
   header .navbar-default .navbar-toggle {
     margin-top: 10px;
@@ -307,7 +307,7 @@ px      68    160    252    */
     width: 100%;
   }
   #portfolio-work .block .portfolio-contant ul li a .img-heading {
-    padding: 5px 0 5px 13px;
+    padding: 5px 0 5px 15px;
   }
   #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
     font-size: 20px;

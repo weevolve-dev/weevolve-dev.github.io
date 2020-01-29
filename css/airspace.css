@@ -63,7 +63,7 @@ a:active {
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
-  color: #666;
+  color: #606060;
 }
 /*--
 	Header Start
@@ -99,7 +99,7 @@ header .navbar-default .navbar-nav li a {
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
-  color: #000;
+  color: #606060;
 }
 /*---------------------------------------------
 					Index Start
@@ -158,7 +158,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #606060;
   padding-top: 20px;
 }
 #intro .block img {
@@ -191,7 +191,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #666;
 }
 #service .service-item p {
-  color: #888;
+  color: #606060;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -246,7 +246,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #E2EE7B;
   font-size: 15px;
   font-weight: bold;
-  color: #666;
+  color: #606060;
   margin-top: 30px;
 }
 /*--
@@ -289,7 +289,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: 600;
 }
 #feature p {
-  color: #8d8f92;
+  color: #606060;
   margin-bottom: 20px;
 }
 #feature .section-title {
@@ -305,7 +305,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #E2EE7B;
   font-size: 15px;
   font-weight: bold;
-  color: #666;
+  color: #606060;
   margin-top: 30px;
 }
 /*--
@@ -543,7 +543,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
-  font-size: 13px;
+  font-size: 15px;
   color: #655E7A;
 }
 #portfolio-work .block .portfolio-contant ul img {
@@ -732,7 +732,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #E2EE7B;
   font-size: 15px;
   font-weight: bold;
-  color: #666;
+  color: #606060;
   margin-top: 30px;
 }
 /*--
@@ -779,12 +779,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #contact-box .block h2 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color: #000;
+  color: #8C8C8C;
   font-size: 28px;
   padding-bottom: 30px;
 }
 #contact-box .block p {
-  color: #5C5C5C;
+  color: #606060;
   display: block;
 }
 /*--
@@ -809,7 +809,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 .heading h2 {
-  color: #000;
+  color: #8C8C8C;
   font-size: 30px;
   line-height: 40px;
   font-weight: 400;
@@ -831,12 +831,12 @@ footer {
   padding-bottom: 55px;
 }
 footer p {
-  font-size: 13px;
+  font-size: 15px;
   line-height: 25px;
-  color: #919191;
+  color: #8C8C8C;
 }
 footer a {
-  color: #595959;
+  color: #606060;
 }
 footer .footer-manu {
   padding-bottom: 25px;
