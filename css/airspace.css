@@ -112,7 +112,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 100px 0 140px 0;
   position: relative;
 }
 #slider:before {
@@ -132,10 +132,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  font-size: 45px;
+  font-weight: 300;
+  font-size: 35px;
   line-height: 60px;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
   padding-bottom: 45px;
   color: #fff;
 }
@@ -227,8 +227,8 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 33px;
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
-  letter-spacing: 10px;
+  font-weight: 300;
+  letter-spacing: 5px;
   font-size: 40px;
   color: #fff;
 }
@@ -428,10 +428,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #global-header .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
   padding-bottom: 45px;
   color: #fff;
 }
@@ -680,10 +680,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider-contact .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
   padding-bottom: 45px;
   color: #fff;
 }
