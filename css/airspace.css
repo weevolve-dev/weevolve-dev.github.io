@@ -777,10 +777,10 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
 }
 #contact-box .block h2 {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
-  color: #606060;
+  text-transform: uppercase;
   font-size: 28px;
+  font-weight: 600;
+  color: #606060;
   padding-bottom: 30px;
 }
 #contact-box .block p {
