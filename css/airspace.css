@@ -722,6 +722,7 @@ font header .navbar-default .navbar-nav li a:hover {
   border: 1px solid #EEF2F6;
   box-shadow: none;
   width: 100%;
+  resize: vertical;
 }
 #contact-form .block button {
   width: 100%;
@@ -770,7 +771,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-color: #ff432e;
 }
 #contact-box {
-  padding-top: 35px;
   padding-bottom: 58px;
 }
 #contact-box .block img {
