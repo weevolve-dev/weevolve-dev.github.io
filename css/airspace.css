@@ -153,7 +153,6 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 100px 0px 100px 0px;
 }
 #intro .block h2 {
-  padding-top: 35px;
   line-height: 27px;
   margin: 0;
 }
@@ -176,7 +175,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #service {
   text-align: center;
-  padding: 90px 0;
+  padding: 65px 0;
 }
 #service .service-item {
   padding-bottom: 30px;
@@ -271,7 +270,7 @@ font header .navbar-default .navbar-nav li a:hover {
   box-sizing: border-box;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  padding: 100px 0;
+  padding: 65px 0;
 }
 #feature:before {
     content: "";
